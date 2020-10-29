@@ -1,0 +1,8 @@
+prefix=/home/nle17/viabot_pc_ws/devel
+
+Name: viabot_lane_detect
+Description: Description of viabot_lane_detect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

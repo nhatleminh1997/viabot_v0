@@ -1,0 +1,2 @@
+viabot_lane_detect
+-DCATKIN_DEVEL_PREFIX=/home/nle17/viabot_pc_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nle17/viabot_pc_ws/install -G Unix Makefiles
