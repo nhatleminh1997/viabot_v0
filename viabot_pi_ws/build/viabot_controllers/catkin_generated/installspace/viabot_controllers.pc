@@ -1,0 +1,8 @@
+prefix=/home/nle17/viabot_pi_ws/install
+
+Name: viabot_controllers
+Description: Description of viabot_controllers
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

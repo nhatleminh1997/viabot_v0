@@ -1,0 +1,2 @@
+raspicam_node:viabot_bringup:viabot_controllers
+-DCATKIN_DEVEL_PREFIX=/home/nle17/viabot_pi_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nle17/viabot_pi_ws/install -G Unix Makefiles

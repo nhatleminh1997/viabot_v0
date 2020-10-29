@@ -1,0 +1,8 @@
+prefix=/home/nle17/viabot_pi_ws/devel
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 1.0.1
+Cflags: -I/home/nle17/viabot_pi_ws/devel/include -I/home/nle17/viabot_pi_ws/src/raspicam_node/include
+Libs: -L${prefix}/lib 
+Requires: 

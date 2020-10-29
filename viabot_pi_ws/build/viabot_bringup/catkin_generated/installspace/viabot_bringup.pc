@@ -1,0 +1,8 @@
+prefix=/home/nle17/viabot_pi_ws/install
+
+Name: viabot_bringup
+Description: Description of viabot_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
