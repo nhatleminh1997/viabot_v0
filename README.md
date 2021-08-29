@@ -1,3 +1,3 @@
 # viabot_v0
 
-This is the scratch repository for Viabot. The full repository will be linked soon.
+The project is continued by the amazing team of Hanoi Maker. Please follow them here for latest development: https://github.com/makerhanoi/via-docs
